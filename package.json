@@ -1,0 +1,27 @@
+{
+  "name": "que-veo-hoy-recursos",
+  "version": "1.0.0",
+  "description": "dependencias del proyecto que veo hoy",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "save": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor/servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acamica/acamica_project_que_veo_hoy.git"
+  },
+  "author": "Mauro Juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acamica/acamica_project_que_veo_hoy/issues"
+  },
+  "homepage": "https://github.com/acamica/acamica_project_que_veo_hoy#readme"
+}
